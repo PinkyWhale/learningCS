@@ -1,0 +1,7 @@
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\bin\Debug\ej03.exe.config
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\bin\Debug\ej03.exe
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\bin\Debug\ej03.pdb
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\obj\Debug\ej03.csprojAssemblyReference.cache
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\obj\Debug\ej03.csproj.CoreCompileInputs.cache
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\obj\Debug\ej03.exe
+E:\Terciario\Ing de Soft\ejercicio\ejercicio\Guia\ej03\ej03\obj\Debug\ej03.pdb
